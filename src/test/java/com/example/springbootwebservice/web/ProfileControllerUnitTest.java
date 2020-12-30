@@ -1,6 +1,6 @@
 package com.example.springbootwebservice.web;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.mock.env.MockEnvironment;
 
 import static org.junit.jupiter.api.Assertions.*;
